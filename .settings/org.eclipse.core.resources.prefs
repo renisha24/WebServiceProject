@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/niku/www/xog/Object/Auth.java=UTF-8
+encoding//src/com/niku/www/xog/Object/CustomObjectInstancesPort.java=UTF-8
+encoding//src/com/niku/www/xog/Object/CustomObjectInstancesService.java=UTF-8
+encoding//src/com/niku/www/xog/Object/CustomObjectInstancesServiceLocator.java=UTF-8
+encoding//src/com/niku/www/xog/Object/CustomObjectInstancesSoapBindingStub.java=UTF-8
+encoding//src/com/niku/www/xog/Object/Login.java=UTF-8
+encoding//src/com/niku/www/xog/Object/Logout.java=UTF-8
+encoding//src/com/niku/www/xog/Object/NikuDataBus.java=UTF-8
+encoding//src/com/niku/www/xog/Object/XOGOutput.java=UTF-8
